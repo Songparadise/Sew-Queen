@@ -1,10 +1,7 @@
-/*Sew Queen Whatsapp Bot    
-
-Telegram: https://t.me/RavinduManoj
-Facebook: https://www.facebook.com/ravindu.manoj.79
+/*Garfielld Whatsapp Bot    
 Licensed under the  GPL-3.0 License
 
-Coded By Ravindu Manoj
+Coded By Sarith Vimukthi
 */
 let DataPack = require('sew-queen-pro/export/output');
 let SewQueen = require('sew-queen-pro/sources/dc/handler');

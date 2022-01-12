@@ -14,7 +14,7 @@
 ***
 > Another Way To Get Qr ✏
 
-# You Can Get Qr Easily Using Another Sew Queen Bot
+# You Can Get Qr Easily Using Another Garfield Bot
 # Get Qr As Image To Use .getqr
 
 > termux code for qr✏

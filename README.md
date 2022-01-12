@@ -1,4 +1,4 @@
-<div align="center"><h1>❖❖❖❖❖   𝐒𝐄𝐖 𝐐𝐔𝐄𝐄𝐍   ❖❖❖❖❖</h1><a href="https://github.com/ravindu01manoj/Sew-Queen"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yvicmWvg3HgmeKIMWHPnjkq0gNX1XCxR7iVjoJHBJ1bKFoBuv-CPUyi7F6G2vNFOCZ0&usqp=CAU.jpg" width="250" height="250"></a><h3>✬✬ Garfield Is World Best Whatsapp Bot Ever ✬✬</h3></div>
+<div align="center"><h1>❖❖❖❖❖ Garfield ❖❖❖❖❖</h1><a href="https://github.com/ravindu01manoj/Sew-Queen"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yvicmWvg3HgmeKIMWHPnjkq0gNX1XCxR7iVjoJHBJ1bKFoBuv-CPUyi7F6G2vNFOCZ0&usqp=CAU.jpg" width="250" height="250"></a><h3>✬✬ Garfield Is World Best Whatsapp Bot Ever ✬✬</h3></div>
 
 ***
 > scan  QR Code ✏

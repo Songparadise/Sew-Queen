@@ -1,11 +1,11 @@
 {
-    "name": "Sew-Queen",
+    "name": " GArfield",
     "description": "World Best Whatsapp Bot",
-    "logo": "https://i.ibb.co/cQQ7RkC/main.jpg",
-    "keywords": ["sew", "sewqueen"],
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yvicmWvg3HgmeKIMWHPnjkq0gNX1XCxR7iVjoJHBJ1bKFoBuv-CPUyi7F6G2vNFOCZ0&usqp=CAU.jpg",
+    "keywords": ["gar", "garfield"],
     "stack": "container",
     "env": {
-        "_SEW_QUEEN_SESSION": {
+        "_Garfield_QUEEN_SESSION": {
             "description": "Scan the QR code and enter the code obtained. QR කෝඩය ස්කෑන් කර ලබා ගන්නා කේතය ඇතුලත් කරන්න",
             "required": true
         },
@@ -37,7 +37,7 @@
         "MENU_HEADER": {
             "description": "ITS CHANGE YOUR CMD LIST HEADER",
             "required": true,
-            "value": "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━\n┃   *SEW QUEEN WHATSAPP BOT*\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n THIS IS SEW QUEEN CMD MENU"
+            "value": "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━\n┃   *Garfield WHATSAPP BOT*\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n THIS IS Garfield CMD MENU"
         },
         "GROUP_MANAGE": {
             "description": "If you want the admin in the group to be able to use the admin command too, enter true. සමූහය තුල සිටින ඇඩ්මින් හටද ඇඩ්මින් විදාන භාවිතා කිරීමට හැකි සේ සැකසීම අවශ්‍යයි නම් true ලෙස ඇතුලත් කරන්න",
@@ -104,7 +104,7 @@
         "YOUR_BOT_NAME": {
             "description": "බොට්ගේ නාමය ඇතුලත් කරන්න ==> Input The Bot Name",
             "required": false,
-            "value": "✬ MS SEW ✬"
+            "value": "✬ MR Garfield ✬"
         },
         "NO_LOG": {
             "description": "Set true if you don't want to see error log.",
